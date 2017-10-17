@@ -2,9 +2,12 @@
 
 Guia técnico da Kino Contabilidade Online para desenvolvedores: Navegue nos termos e conceitos financeiros e contáveis.
 
+**> Trabalho em Progresso, para sugestões de conteúdo, abra uma issue :)**
+
 Existem uma imensidão de processos, termos e problemas, que um desenvolvedor pode enfrentar ao desenvolver sistemas financeiros. Esse guia tem a intenção de atualizar os desenvolvedores nos termos, conceitos e técnicas necessárias para um quickstart na área.
 
-**> Trabalho em Progresso, para sugestões de conteúdo, abra uma issue :)**
+Esperamos que o mesmo também sirva como guia para startups e empresas que estejam buscando conhecimento para automatizar processos e/ou controles e não sabem por onde começar.
+
 
 ## Conteúdos Planejados
 
