@@ -12,8 +12,8 @@ Esperamos que o mesmo também sirva como guia para startups e empresas que estej
 ## Conteúdos Planejados
 
 - 1 - Conceitos Básicos
-  - 1.1 - Introdução Financeira para Desenvolvedores
-  - 1.2 - Introduçõa Tributária para Desenvolvedores
+  - [1.1 - Introdução Financeira para Desenvolvedores](https://github.com/sejakino/contabilidade-online/blob/master/1-conceitos-basicos/1.1-introducao-financeira-para-desenvolvedores.md)
+  - [1.2 - Introduçõa Tributária para Desenvolvedores](https://github.com/sejakino/contabilidade-online/blob/master/1-conceitos-basicos/1.2-introducao-tributaria-para-desenvolvedores.md)
   - 1.3 - Entendendo os Diferentes tipos de Empresas e Obrigações Legais
 - 2 - Notas Fiscais de Serviço Eletrônicas
   - 2.1 - Entendendo como funcionam as integrações com prefeituras.
