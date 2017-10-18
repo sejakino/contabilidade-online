@@ -10,7 +10,7 @@ Esperamos que o mesmo também sirva como guia para startups e empresas que estej
 
 ## Conteúdos Planejados
 
-* 1 - Conceitos Básicos
+* [1 - Conceitos Básicos](https://github.com/sejakino/contabilidade-online/blob/master/1-conceitos-basicos/1.0-conceitos-basicos.md)
   * [1.1 - Introdução Financeira para Desenvolvedores](https://github.com/sejakino/contabilidade-online/blob/master/1-conceitos-basicos/1.1-introducao-financeira-para-desenvolvedores.md)
   * [1.2 - Introdução Tributária para Desenvolvedores](https://github.com/sejakino/contabilidade-online/blob/master/1-conceitos-basicos/1.2-introducao-tributaria-para-desenvolvedores.md)
   * [1.3 - Entendendo os Diferentes tipos de Empresas e Obrigações Legais](https://github.com/sejakino/contabilidade-online/blob/master/1-conceitos-basicos/1.3-entendendo-os-diferentes-tipos-de-empresas-e-obrigacoes-legais.md)
