@@ -12,5 +12,5 @@
 
 ## 2 - Nota Fiscal de Serviço Eletrônica \(NFS-e\)
 
-* [2.1 - Introdução a Nota Fiscal de Serviço Eletrônica](2-nota-fiscal-de-servico-eletronica-nfs-e/21-introducao-a-prestacao-de-servico-e-notas-fiscais.md)
+* [2.1 - Entendendo a Nota Fiscal de Serviço Eletrônica](2-nota-fiscal-de-servico-eletronica-nfs-e/2.1-entendendo-a-nota-fiscal-de-servico-eletronica.md)
 
