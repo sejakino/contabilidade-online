@@ -1,4 +1,4 @@
-# Summary
+# Sumary
 
 ## Introdução
 
@@ -11,4 +11,6 @@
 * [1.3 - Entendendo os Diferentes Tipos de Empresas e Obrigações Legais](1-conceitos-basicos/1.3-entendendo-os-diferentes-tipos-de-empresas-e-obrigacoes-legais.md)
 
 ## 2 - Nota Fiscal de Serviço Eletrônica \(NFS-e\)
+
+
 
